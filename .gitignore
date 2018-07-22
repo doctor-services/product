@@ -1,0 +1,7 @@
+src/**/vendor
+!build
+build/*
+bin
+pkg
+src/githup.com
+src/golang.org
